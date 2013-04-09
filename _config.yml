@@ -1,1 +1,4 @@
 permalink: /:year/:month/:day/:title/
+name: iterex
+description: Travel photoblog
+url: http://iter-ex.com
