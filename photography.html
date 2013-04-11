@@ -1,0 +1,13 @@
+---
+layout: default
+---
+    {% for post in site.posts | limit: 50 %}
+    {% if post.is_photo %}
+    <div class="post">
+      <div>
+        <img src="{{ post.src }}" title="{{ post.title }}" />
+      </div>
+      <br />
+    </div>
+    {% endif  %}
+    {% endfor %}
