@@ -117,6 +117,7 @@ body .post > time {
   margin-bottom: 2em;
 }
 
+body .post,
 body .post > div {
   clear: both;
 }
@@ -141,6 +142,7 @@ body .post > div h3 {
 }
 
 body .post img {
+  display: block;
   max-width: 100%;
 }
 
