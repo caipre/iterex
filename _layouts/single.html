@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post">
+    <div class="post">
       {% unless page.is_photo %}
       <h2>{{ page.title}}</h2>
       <time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}"
@@ -9,7 +9,7 @@ layout: default
         {{ page.date | date: "%B %d" }}
       </time>
       <div>
-        {{ content }}
+{{ content }}
       </div>
       {% else %}
         <img src="{{ page.src }}" title="{{ page.title }}" />
