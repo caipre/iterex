@@ -64,6 +64,10 @@ body #main {
   width: 45em;
 }
 
+body #main.wide {
+  width: 960px;
+}
+
 body #main > h1 {
   border-top: 0.5em solid #194B96;
   float: left;

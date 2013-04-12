@@ -11,7 +11,7 @@
 </head>
 
 <body>
-  <div id="main">
+  <div id="main" {% if page.is_photo or page.title == 'photography' %}class="wide"{% endif %}>
     <h1>
       <a href="/">iter<span>&#x2215;</span>ex</a>
     </h1>
