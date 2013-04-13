@@ -1,18 +1,19 @@
 ---
 layout: default
 ---
-    <div class="post">
-      {% unless page.is_photo %}
-      <h2>{{ page.title}}</h2>
-      <time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}"
-            title="{{ page.date | date: "%Y-%m-%d %H:%M" }}">
-        {{ page.date | date: "%B %d" }}
-      </time>
-      <div>
-{{ content }}
+    <div>
+    {% if page.categories contains 'journal' %}
+      <div class="row">
+        <h1>{{ page.title}}</h1>
+        <time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}"
+              title="{{ page.date | date: "%Y-%m-%d %H:%M" }}">
+          {{ page.date | date: "%B %d" }}
+        </time>
       </div>
-      {% else %}
+      <div id="page">
+        {{ content }}
+      </div>
+    {% else %}
         <img src="{{ page.src }}" title="{{ page.title }}" />
-      {% endunless %}
+    {% endif %}
     </div>
-    <hr />
