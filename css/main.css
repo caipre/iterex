@@ -64,7 +64,8 @@ body #main {
   width: 45em;
 }
 
-body #main.wide {
+body #main.wide,
+body #blck.wide {
   width: 960px;
 }
 
@@ -151,7 +152,7 @@ body .post img {
 }
 
 body #push { height: 1.5em; }
-body #footer {
+body #blck {
   border-top: 0;
   border-right: 2.5em solid #222;
   height: 1.5em;
