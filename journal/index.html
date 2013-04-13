@@ -2,26 +2,17 @@
 layout: default
 title: journal
 ---
-    {% for post in site.posts | limit: 50 %}
-    {% unless post.is_photo %}
-    <div class="post">
-      <h2>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </h2>
-      <time datetime="{{ post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}"
-            title="{{ post.date | date: "%Y-%m-%d %H:%M" }}">
-        {{ post.date | date: "%B %d" }}
-      </time>
-      <div>
-        {% assign len = post.content | number_of_words %}
-        {% unless len > 500 %}
-          {{ post.content }}
-        {% else %}
-          {{ post.content | truncatewords: 500, ' &#8212; ' }}
-          <a href="{{ post.url }}"><em>more</em></a>
-        {% endunless %}
-      </div>
+    <div>
+      {% for item in site.categories.journal %}{% assign month = item.date | date: "%B" %}{% if month != prev %}{% if in_ul %}{% assign in_ul = false %}</ul>
+      {% endif %}
+      <h2>{{ month }}</h2>
+      <ul>{% endif %}
+        <li>
+          <a href="{{ item.url }}"
+             title="{{ item.title }}">
+            {{ item.title }}
+          </a>
+        </li>{% assign in_ul = true %}{% assign prev = month %}
+      {% endfor %}</ul>
     </div>
-    <hr />
-   {% endunless %}
-   {% endfor %}
+
