@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-    {% assign item = site.posts[0] %}
+    {% for item in site.posts | limit: 10 %}
     <div>
     {% if item.categories contains 'journal' %}
       <div class="row">
@@ -21,4 +21,6 @@ layout: default
         <img src="{{ item.src }}" title="{{ item.title }}" />
       </a>
     {% endif %}
+    {% unless forloop.last %}<hr />{% endunless %}
     </div>
+    {% endfor %}
