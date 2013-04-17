@@ -35,7 +35,7 @@ hr {
   background-color: #aaa;
   border: 0;
   height: 2px;
-  margin: 5em auto;
+  margin: 4em auto;
 }
 
 p {
@@ -63,14 +63,14 @@ ul {
 body #main {
   height: auto !important;
   height: 100%;
-  margin: 0 auto -1.5em;
+  margin: 0 auto -9.5em;
   max-width: 90%;
   min-height: 100%;
   width: 45em;
 }
 
 body #main.wide,
-body #blck.wide {
+body #tail.wide {
   width: 960px;
 }
 
@@ -112,6 +112,7 @@ body #main > ul a:visited {
 
 body #main > div {
   clear: both;
+  margin-bottom: 2em;
 }
 
 body #main > div h1 {
@@ -170,12 +171,21 @@ body #main > div img {
   max-width: 100%;
 }
 
-body #push { height: 1.5em; }
-body #blck {
-  border-top: 0;
-  border-right: 2.5em solid #222;
-  height: 1.5em;
+body #push {
+  height: 9.5em;
+}
+
+body #tail {
   margin: 0 auto;
   max-width: 90%;
+  position: relative;
   width: 45em;
+}
+
+body #tail > div {
+  background-color: #222;
+  height: 1.5em;
+  position: absolute;
+  right: 0;
+  width: 2.5em;
 }
