@@ -2,13 +2,8 @@
 layout: default
 title: photography
 ---
-    {% for post in site.posts | limit: 50 %}
-    {% if post.is_photo %}
-    <div class="post">
-      <div>
-        <img src="{{ post.src }}" title="{{ post.title }}" />
-      </div>
-      <br />
+    {% for item in site.categories.photography | limit: 50 %}
+    <div>
+      <img src="{{ item.src }}" title="{{ item.title }}" />
     </div>
-    {% endif  %}
     {% endfor %}
