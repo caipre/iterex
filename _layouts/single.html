@@ -4,7 +4,7 @@ layout: default
     <div>
     {% if page.categories contains 'journal' %}
       <div class="row">
-        <h1>{{ page.title}}</h1>
+        <h1>{{ page.title}}</h1>&nbsp;<span>&#x2215; {{ page.author }}</span>
         <time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}"
               title="{{ page.date | date: "%Y-%m-%d %H:%M" }}">
           {{ page.date | date: "%B %d" }}
