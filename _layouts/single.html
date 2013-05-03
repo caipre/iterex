@@ -13,6 +13,10 @@ layout: default
       <div id="page">
         {{ content }}
       </div>
+      <div id="chrono">
+        {% if page.previous %}<a href="{{ page.previous.url }}">Previous</a>{% endif %}
+        {% if page.next %}<a href="{{ page.next.url }}">Next</a>{% endif %}
+      </div>
     {% else %}
         <img src="{{ page.src }}" title="{{ page.title }}" />
     {% endif %}
