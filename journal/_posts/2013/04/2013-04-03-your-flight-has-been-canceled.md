@@ -32,22 +32,23 @@ figure out what had happened and what was going to happen.
 
 After a short conversation with a British Airways attendant, I accepted one of
 the nine remaining seats on an flight leaving two hours earlier than my original
-booking; my connecting flight to Spain would be the same. Sam was supposed to
-fly from Chicago to Boston so we could continue to Spain together, but his
-ticket was changed to a direct flight into London with different connecting
-flight to Spain. We'd have to wait until we were both in Málaga before we would
-see each other.
+booking; my connecting flight to Spain would be the same. Sam's booking had
+been changed as well. He was supposed to fly from Chicago to Boston so we
+could continue to Spain together, but his ticket was changed to a direct flight
+into London with different connecting flight to Spain. We'd have to wait until
+we were both in Málaga before we would see each other.
 
-I left the bike shop and a few short hours later, I was at Logan airport saying
-some hard goodbyes. It felt like I would be leaving Boston for a lot longer than
-the five months I planned.
+I left the bike shop feeling quite a bit more rushed than when I had entered. A
+few short hours later, I was at Logan airport saying some hard goodbyes. It felt
+like I would be leaving Boston for a lot longer than the five months I was
+planning.
 
-I sent out some final goodbyes then turned off my phone. I slept for most of
-the flight across the Atlantic. When I landed in London Heathrow, the sky was
-overcast gray and it was snowing. It reminded me of a perfectly named drink I
-used to get at the coffee house at university: a *London Fog*. Hopefully it
-would be a bit warmer by the time we made it back here by bike. I left Heathrow
-on a bus to Gattwick, about an hour ride. After a short flight to Málaga, I
-landed in sunny Spain where I was greeted by Sam and his family.
+While waiting to board, I sent out some final goodbyes before turning off my
+phone.  I slept for most of the flight across the Atlantic. When I landed in
+London Heathrow, the sky was overcast gray and it was snowing. It reminded me of
+a perfectly named drink I used to get at the coffee house at university: a
+London Fog. I hoped it would be warmer by the time we made it back here on bike.
+I left Heathrow on a bus to Gattwick, about an hour ride. After a short flight
+to Málaga, I landed in sunny Spain where I was greeted by Sam and his family.
 
 We'd made it.
