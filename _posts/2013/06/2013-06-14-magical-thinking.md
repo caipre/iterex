@@ -58,6 +58,6 @@ about the different situations we encounter on a bike.
 
 I can't say how often I'll get a story up. It's been about five countries since
 the last update. But having read *Magical Thinking*, I'm inspired to write a bit
-more casually, which might mean the stories will come easier.
+more casually, which may mean the stories will come easier.
 
 And that inspiration might nearly justify carrying the book across a continent.
