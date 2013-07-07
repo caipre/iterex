@@ -62,8 +62,6 @@ wears you down pretty fast. After a short while we stopped for lunch by the side
 of the road and took another look at the map. A few hot hours later we climbed
 uphill to Nijar where we stopped, hoping to fill up on water.
 
-![A dog sleeps on the sidewalk in Nijar](/img/2013/04/21/nijar-dog.jpg)
-
 The Spainish mediodia caught us off guard again, and we found out that all the
 shops were closed for the afternoon. While we waited, we spent some time
 cleaning and adjusting the bikes. When the stores finally opened we bought the

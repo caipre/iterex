@@ -35,7 +35,14 @@ hr {
   background-color: #aaa;
   border: 0;
   height: 2px;
-  margin: 2em auto 6em;
+  margin: 5em auto;
+}
+
+blockquote {
+  border-left: 1px solid #aaa;
+  font-style: italic;
+  margin-top: 0.5em;
+  padding-left: 0.5em;
 }
 
 p {

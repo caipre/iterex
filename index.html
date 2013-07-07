@@ -3,7 +3,7 @@ layout: default
 ---
     {% for item in site.posts %}
     <div>
-    {% if item.categories contains 'journal' %}
+    {% unless item.src %}
       <div class="row">
         <h1>
           <a href="{{ item.url }}">{{ item.title }}</a>
@@ -16,7 +16,7 @@ layout: default
       <div id="page">
         {{ item.content }}
       </div>
-    {% elsif item.categories contains 'photography' %}
+    {% else %}
       <a href="{{ item.url }}">
         <img src="{{ item.src }}" title="{{ item.title }}" />
       </a>
@@ -25,7 +25,7 @@ layout: default
         {{ item.content }}
       </blockquote>
       {% endif %}
-    {% endif %}
+    {% endunless %}
     {% unless forloop.last %}<hr />{% endunless %}
     </div>
     {% endfor %}
