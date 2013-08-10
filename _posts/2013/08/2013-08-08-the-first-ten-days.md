@@ -2,17 +2,17 @@
 author: Nick
 date: 2013-08-08 14:28
 layout: single
-title: Driving Around England - The First Ten Days
+title: Driving Around England: The First Ten Days
 ---
  Leaving Durham, I drove toward Sunderland some 20miles away. On the bikes the trip would have taken two hours; with the car it was no more than a half hour. I hadn't expected to arrive so early and found myself with a whole evening to kill. I spent the first night parked next to the harbor, reading my guidebook and wrestling with loneliness and apprehension.
 
-[/img/2013/07/24/sunderland.jpg](View of Sunderland from my campsite for the night)
+![View of Sunderland from my campsite for the night](/img/2013/07/24/sunderland.jpg)
 
 On advice from Gilly and Alastair, I had planned to follow the eastern coastline north into Scotland. That plan changed when I heard that Phil, my brother-in-law (to be), wanted to fly out to visit me for a few days. I had a week before his arrival so I decided I would head southward into central England, leaving Scotland for us to explore together.
 
 I spent the second day around Sunderland, the highlight of which was a visit to the National Glass Center. I was able to catch a glass blowing demonstration, which was great.
 
-[/img/2013/07/25/national-glass-center.jpg](The glassmaking demonstration)
+![The glassmaking demonstration](/img/2013/07/25/national-glass-center.jpg)
 
 When the glass is taken out of the furnace it has the consistency of honey &mdash; the instructor held the blowing stick steady and the molten glass at the end drooped down then fell to the table in a glob. Meanwhile it rapidly cooled, and the filaments that stretched back to the stick hardened into many firm but fragile (and probably dangerous), fishing-line thin spindles of "glass spaghetti." The museum was excellent and had cost nothing, so I bought two marbles to contribute back.
 
@@ -44,7 +44,7 @@ Back at the car, I changed into dry clothes and drove a short way off the main r
 
 My last stop was what I had planned to do first. Driving east alongside the wall (or its ruins), I made my way back to the coast where I'd intended to start. I followed the same coastal route Sam and I had planned to do by bike, "Route 1: Coast and Castles." I suppose following that route was a bit cathartic, being the right blend of an experience I'd lost and the means of still achieving it. I continued along the coast then crossed to Holy Island, separated from the mainland by a mile-long tidal causeway. I spent a few hours wandering the island, taking in the stunning Lindisfarne Castle.
 
-[/img/2013/08/31/lindisfarne-castle.jpg](Lindisfarne Castle)
+![Lindisfarne Castle](/img/2013/08/31/lindisfarne-castle.jpg)
 
  I left the island before the tide flooded the road, and headed back toward Bamburgh to have dinner at the heartily recommended Castle Inn. While the meal was good, dinner for one just isn't something to write about. The restaurant didn't have wifi, so I knocked on the door of a B&B next door and asked to use theirs; the woman who answered the door (a guest staying at the house) laughed and helpfully obliged. I Skype'd  Phil to confirm flight and trip details, then headed out toward the country to find another campsite.
 
