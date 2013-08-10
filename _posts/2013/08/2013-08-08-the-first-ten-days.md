@@ -2,7 +2,7 @@
 author: Nick
 date: 2013-08-08 14:28
 layout: single
-title: Driving Around England: The First Ten Days
+title: Driving Around England - The First Ten Days
 ---
  Leaving Durham, I drove toward Sunderland some 20miles away. On the bikes the trip would have taken two hours; with the car it was no more than a half hour. I hadn't expected to arrive so early and found myself with a whole evening to kill. I spent the first night parked next to the harbor, reading my guidebook and wrestling with loneliness and apprehension.
 
